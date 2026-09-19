@@ -391,7 +391,7 @@ function App() {
 
 
   {/* Bottom Footer */}
-  <div className="text-left border-t border-gray-700 mt-10 pt-6 text-center text-gray-500">
+  <div className="text-left border-t border-gray-800 mt-10 pt-6 text-center text-gray-500">
     <p>
       © 2026 Dev Stack. All rights reserved.
     </p>
