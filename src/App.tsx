@@ -338,7 +338,7 @@ function App() {
                 Learn, build and grow with modern programming technologies.
              </p>
 
-             <a href="#" className="hover:text-blue-400 transition">
+             <a href="#" className="hover:text-blue-300 transition">
                 LinkedIn
              </a>
     </div>
