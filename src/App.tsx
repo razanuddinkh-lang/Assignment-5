@@ -382,7 +382,7 @@ function App() {
 
       <ul className="space-y-3 text-gray-400">
         <li>Email: hello@devstack.com</li>
-        <li>Phone: +880 1234 567890</li>
+        <li>Website: www.opsonor.com</li>
         <li>Dhaka, Bangladesh</li>
       </ul>
     </div>
