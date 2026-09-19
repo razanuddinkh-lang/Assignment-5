@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "category": "Frontend",
+    "description": "A JavaScript library for building modern user interfaces.",
+    "price": 49,
+    "rating": 4.9,
+    "reviews": 128,
+    "icon": "⚛️"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "A powerful programming language for modern web development.",
+    "price": 45,
+    "rating": 4.8,
+    "reviews": 210,
+    "icon": "🟨"
+  },
+  {
+    "id": 3,
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language built on JavaScript.",
+    "price": 39,
+    "rating": 4.9,
+    "reviews": 115,
+    "icon": "🔷"
+  },
+  {
+    "id": 4,
+    "name": "Python",
+    "category": "Backend",
+    "description": "A versatile language used for web development, AI and data science.",
+    "price": 55,
+    "rating": 4.8,
+    "reviews": 180,
+    "icon": "🐍"
+  },
+  {
+    "id": 5,
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "A JavaScript runtime for building fast server-side applications.",
+    "price": 59,
+    "rating": 4.7,
+    "reviews": 145,
+    "icon": "🟢"
+  },
+  {
+    "id": 6,
+    "name": "Tailwind CSS",
+    "category": "Frontend",
+    "description": "A utility-first CSS framework for rapidly building interfaces.",
+    "price": 35,
+    "rating": 4.9,
+    "reviews": 98,
+    "icon": "🌊"
+  },
+  {
+    "id": 7,
+    "name": "Next.js",
+    "category": "Framework",
+    "description": "A React framework for production-ready web applications.",
+    "price": 65,
+    "rating": 4.8,
+    "reviews": 132,
+    "icon": "▲"
+  },
+  {
+    "id": 8,
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "A progressive framework for building user interfaces.",
+    "price": 42,
+    "rating": 4.7,
+    "reviews": 87,
+    "icon": "💚"
+  },
+  {
+    "id": 9,
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A flexible NoSQL database for modern applications.",
+    "price": 50,
+    "rating": 4.8,
+    "reviews": 105,
+    "icon": "🍃"
+  }
+]
